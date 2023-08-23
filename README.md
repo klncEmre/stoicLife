@@ -1,1 +1,1 @@
-# stoasticLife
+# stoicLife
